@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><xmi:XMI xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.record="http:///orgomg/cwm/resource/record.ecore" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmi:version="2.0">
+  <TalendMetadata:DelimitedFileConnection Encoding="UTF-8" FieldSeparatorType="Tabulation" FieldSeparatorValue="&quot;\t&quot;" FilePath="C:/Users/amuly/Downloads/IMDB_Project/data_imdb_datasets/title_basics_movies.tsv" FirstLineCaption="true" Format="WINDOWS" HeaderValue="1" RowSeparatorValue="&quot;\n&quot;" Server="Localhost 127.0.0.1" UseHeader="true" dataPackage="_5yg8EVYyEeyBYdtdrblhHA" name="title_basics_movies" xmi:id="_5yg8EFYyEeyBYdtdrblhHA"/>
+  <orgomg.cwm.resource.record:RecordFile dataManager="_5yg8EFYyEeyBYdtdrblhHA" name="default" xmi:id="_5yg8EVYyEeyBYdtdrblhHA">
+    <ownedElement id="_g2Hv8FYyEeyBYdtdrblhHA" label="title_basic_movies" xmi:id="_5yg8ElYyEeyBYdtdrblhHA" xsi:type="TalendMetadata:MetadataTable">
+      <feature label="tconst" length="9" pattern="&quot;dd-MM-yyyy&quot;" talendType="id_String" xmi:id="_5yg8E1YyEeyBYdtdrblhHA" xsi:type="TalendMetadata:MetadataColumn"/>
+      <feature label="titleType" length="5" pattern="&quot;dd-MM-yyyy&quot;" talendType="id_String" xmi:id="_5yg8FFYyEeyBYdtdrblhHA" xsi:type="TalendMetadata:MetadataColumn"/>
+      <feature label="primaryTitle" length="45" pattern="&quot;dd-MM-yyyy&quot;" talendType="id_String" xmi:id="_5yg8FVYyEeyBYdtdrblhHA" xsi:type="TalendMetadata:MetadataColumn"/>
+      <feature label="originalTitle" length="52" pattern="&quot;dd-MM-yyyy&quot;" talendType="id_String" xmi:id="_5yg8FlYyEeyBYdtdrblhHA" xsi:type="TalendMetadata:MetadataColumn"/>
+      <feature label="isAdult" length="5" pattern="&quot;dd-MM-yyyy&quot;" talendType="id_Boolean" xmi:id="_5yg8F1YyEeyBYdtdrblhHA" xsi:type="TalendMetadata:MetadataColumn"/>
+      <feature label="startYear" length="4" pattern="&quot;dd-MM-yyyy&quot;" talendType="id_Integer" xmi:id="_5yg8GFYyEeyBYdtdrblhHA" xsi:type="TalendMetadata:MetadataColumn"/>
+      <feature label="endYear" length="2" pattern="&quot;dd-MM-yyyy&quot;" talendType="id_String" xmi:id="_5yg8GVYyEeyBYdtdrblhHA" xsi:type="TalendMetadata:MetadataColumn"/>
+      <feature label="runtimeMinutes" length="2" pattern="&quot;dd-MM-yyyy&quot;" talendType="id_String" xmi:id="_5yg8GlYyEeyBYdtdrblhHA" xsi:type="TalendMetadata:MetadataColumn"/>
+      <feature label="genres" length="24" pattern="&quot;dd-MM-yyyy&quot;" talendType="id_String" xmi:id="_5yg8G1YyEeyBYdtdrblhHA" xsi:type="TalendMetadata:MetadataColumn"/>
+    </ownedElement>
+  </orgomg.cwm.resource.record:RecordFile>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#" Id="_27c19493-0f36-4991-b51e-91558ac0fc24"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/><SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha512"/><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>xcJp/YFUiYiN1oqGZTEXhhfibFAYNBrmw1ZyMqm4SPZ0HYxozdG2RoSQx3u5VTk/ZnyGfMC8yrlI
+3wTE4WQ9zA==</DigestValue></Reference><Reference Type="http://www.w3.org/2000/09/xmldsig#SignatureProperties" URI="#_3806b394-9811-4de3-9713-5cf7d9d00558"><Transforms><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>tLskVM1QUpVkUwh6iEXBcsZ5dHLV9wFA/zxLdfDybbkbzHUK5vw98OMJOPz7TXmd8MM6yGWicHlv
+4sI3fNpXkQ==</DigestValue></Reference></SignedInfo><SignatureValue>o0CP/n+G0EYpjr3eeL64P5esUqAWtimYSEXZAV2McUKKR8XjDoYx+cdmbbmU2uIPPKfod2669n/Q
+aLUhD7uKlyUXvuVq36N1uR+1zoKOh/sIStQBwUWycLiU7kZzL6GlPAPaERCruQ8qPRaSaiGCqb5S
+Hwkutqppvbw5NeMhdRLrHIwa1G9JcDvX/HK9iExDh5z/9bHkOrxOIIe0PKkUhewbfWo6G/yXrQDP
+vizoL/o2meksKx2Ss2+JYGEAyLlx4pvzsHUBsBxKNgQ38pFGWgUnmsgLrzYQbTa6wP+VwD78ftN+
+Xt221KZ1Av5rK8BnNEOCw3ryS/OGfJhj1kIlag==</SignatureValue><KeyInfo><X509Data><X509SubjectName>C=FR,ST=Paris,L=Paris,O=Talend Inc.,OU=R&amp;D,CN=Talend Code Signing certificate</X509SubjectName><X509Certificate>MIIFADCCAuigAwIBAgIIA2OsD6bRyj0wDQYJKoZIhvcNAQELBQAwgY0xCzAJBgNVBAYTAkZSMQ4w
+DAYDVQQIEwVQYXJpczEOMAwGA1UEBxMFUGFyaXMxFDASBgNVBAoTC1RhbGVuZCBJbmMuMQwwCgYD
+VQQLDANSJkQxFjAUBgNVBAMMDVRhbGVuZCBSJkQgQ0ExIjAgBgkqhkiG9w0BCQEWE3NlY3VyaXR5
+QHRhbGVuZC5jb20wHhcNMTkwNjAzMDgxODIwWhcNMjkwNjAzMDAwMDAwWjB7MSgwJgYDVQQDEx9U
+YWxlbmQgQ29kZSBTaWduaW5nIGNlcnRpZmljYXRlMQwwCgYDVQQLDANSJkQxFDASBgNVBAoTC1Rh
+bGVuZCBJbmMuMQ4wDAYDVQQHEwVQYXJpczEOMAwGA1UECBMFUGFyaXMxCzAJBgNVBAYTAkZSMIIB
+IjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAp5TMF8BmRt8dY51t9kIDdDkoOKVVytJN2gn2
+DhMGi8hzpUofNDykJDhe9SPqyJdGZ6o/h7laTA0/CivKyPT1OJQ9E2gMHKs8cTZM/cO2w0Atlqkl
+alIxepol0DNnUtmECVBqdnVsJesfmdoeptxgJAtxYbquFsTsrATNY2cscXpwmOca/Ewip48WQLFx
+e5s067jaIsAQGRIqpIup3bOtWBySrtImJ40lQCPeEcl96qzkv3utaVaNc3ukkhYkCDbMbK8NVd1B
+CVeeIBAe+n/SdpHH20o+6eIiZecsBGDLwlTYrFvuVqAa6xI7y8Vdz6irjPAVBEtG/iOc782aJ/lZ
+TwIDAQABo3UwczAMBgNVHRMBAf8EAjAAMA4GA1UdDwEB/wQEAwIHgDATBgNVHSUEDDAKBggrBgEF
+BQcDAzAdBgNVHQ4EFgQUGdfzQEbjQnANq28sfhEMTx+rsOcwHwYDVR0jBBgwFoAU530Lcvy1gZnG
+gCvZLOyCczK1qPcwDQYJKoZIhvcNAQELBQADggIBAEr22wnaQwZm2dhbUCqD+qZpTq2AF/tzxqAM
+eL/CiTjPbTblS4SNNwCKvTgMe9ucpUbenXmK7xE+DU9dN4om+t3VHbkOLQVyuLcd2WGsy7ZGwRvA
+f+TFwLbwjyTukOGm6Sd1qyZgvCPzBsKnft6vscvGy2yEpmFCeHJyBP8pvchg607zguRdNbkGYZXw
+G6jNipAbTtzdPTFKKr1bEf0sUGqMrlZIMPjflh2Vewu8ImNdX5IZdvBD6DdFVOC5wqV6u+W9ukE/
+mXZxDBYNl2AF7FTh04ucEVN3mHv7m2L0uFvUlhxchcagJhJsdQG+A0LVCemHbp6CSNQJx02KxqUG
+hakvpzhOyLo91h8YAQrEZJdNuKA8IYmBrFZQZDCz0uywKSyFfzPyJhvxylCLG/iDPPfE0VWcrMJ/
+WQJly/2XPg/NBCTF3pSKS0kCiA7PeaI3cWkMYYA3PMwYDvzqs1opBRglG7ikj0bQxSm3lcjMuuvW
+gBRksFKjP3K/nztsjSoYITOM9jR29ReIL3v0E8RbAFwA2RGq6Dxd0ixfbucMesy5Gnr8tfYy6rW+
+qSQqd3ah4+PSzBNVwIB4ytpdrG3SlhCI2i2Th8ek8Sjsaquh9qPAerWNd2+84HWOOGj1Xe1qc6vg
+qqu6JoK9EXKDiwBqDVkueIa+MhamE1VDnhn2pPui</X509Certificate></X509Data></KeyInfo><Object><SignatureProperties><SignatureProperty Id="_3806b394-9811-4de3-9713-5cf7d9d00558" Target="#_27c19493-0f36-4991-b51e-91558ac0fc24"><Timestamp>2021-12-06 01:21:56</Timestamp></SignatureProperty></SignatureProperties></Object></Signature></xmi:XMI>

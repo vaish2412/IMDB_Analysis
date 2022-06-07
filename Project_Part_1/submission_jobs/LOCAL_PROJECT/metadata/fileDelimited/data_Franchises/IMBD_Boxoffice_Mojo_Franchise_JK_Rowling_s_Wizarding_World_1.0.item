@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><xmi:XMI xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.record="http:///orgomg/cwm/resource/record.ecore" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmi:version="2.0">
+  <TalendMetadata:DelimitedFileConnection Encoding="UTF-8" FieldSeparatorType="Tabulation" FieldSeparatorValue="&quot;\t&quot;" FilePath="C:/Users/amuly/Downloads/IMDB_Project/data_Franchises/IMDb BoxOfficeMojo - Franchise_ J.K. Rowling's Wizarding World.tsv" FirstLineCaption="true" Format="WINDOWS" HeaderValue="1" RowSeparatorValue="&quot;\n&quot;" Server="Localhost 127.0.0.1" UseHeader="true" dataPackage="_y8BHYlULEeyMRYeeLX0IUw" name="IMBD_Boxoffice_Mojo_Franchise_JK_Rowling's_Wizarding_World" xmi:id="_y8BHYVULEeyMRYeeLX0IUw"/>
+  <orgomg.cwm.resource.record:RecordFile dataManager="_y8BHYVULEeyMRYeeLX0IUw" name="default" xmi:id="_y8BHYlULEeyMRYeeLX0IUw">
+    <ownedElement id="_q4NB8FULEeyMRYeeLX0IUw" label="IMBD_Boxoffice_Mojo_Franchise_JK_Rowling's_Wizarding_World" xmi:id="_y8BHY1ULEeyMRYeeLX0IUw" xsi:type="TalendMetadata:MetadataTable">
+      <feature label="Rank" length="2" pattern="&quot;dd-MM-yyyy&quot;" talendType="id_Integer" xmi:id="_y8BHZFULEeyMRYeeLX0IUw" xsi:type="TalendMetadata:MetadataColumn"/>
+      <feature label="Release" length="59" pattern="&quot;dd-MM-yyyy&quot;" talendType="id_String" xmi:id="_y8BHZVULEeyMRYeeLX0IUw" xsi:type="TalendMetadata:MetadataColumn"/>
+      <feature label="Lifetime_Gross" length="12" pattern="&quot;dd-MM-yyyy&quot;" talendType="id_String" xmi:id="_y8BHZlULEeyMRYeeLX0IUw" xsi:type="TalendMetadata:MetadataColumn"/>
+      <feature label="Max_Theaters" length="5" pattern="&quot;dd-MM-yyyy&quot;" talendType="id_String" xmi:id="_y8BHZ1ULEeyMRYeeLX0IUw" xsi:type="TalendMetadata:MetadataColumn"/>
+      <feature label="Opening_Gross" length="12" pattern="&quot;dd-MM-yyyy&quot;" talendType="id_String" xmi:id="_y8BHaFULEeyMRYeeLX0IUw" xsi:type="TalendMetadata:MetadataColumn"/>
+      <feature label="Open_Theaters" length="5" pattern="&quot;dd-MM-yyyy&quot;" talendType="id_String" xmi:id="_y8BHaVULEeyMRYeeLX0IUw" xsi:type="TalendMetadata:MetadataColumn"/>
+      <feature label="Release_Date" length="12" pattern="&quot;dd-MM-yyyy&quot;" talendType="id_String" xmi:id="_y8BHalULEeyMRYeeLX0IUw" xsi:type="TalendMetadata:MetadataColumn"/>
+      <feature label="Distributor" length="12" pattern="&quot;dd-MM-yyyy&quot;" talendType="id_String" xmi:id="_y8BHa1ULEeyMRYeeLX0IUw" xsi:type="TalendMetadata:MetadataColumn"/>
+      <feature label="Franchise" length="30" pattern="&quot;dd-MM-yyyy&quot;" talendType="id_String" xmi:id="_y8BHbFULEeyMRYeeLX0IUw" xsi:type="TalendMetadata:MetadataColumn"/>
+    </ownedElement>
+  </orgomg.cwm.resource.record:RecordFile>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#" Id="_7ee7a955-d968-4fb4-96b8-cce3106e8087"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/><SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha512"/><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>RAPonFDydRRN8HBcyPr+hx8T8g/sW8gAd1Axm9qOoasxXltg3L+xJMsjM0BGIGfBGl12/CTVE/Ba
+lstqlsduDQ==</DigestValue></Reference><Reference Type="http://www.w3.org/2000/09/xmldsig#SignatureProperties" URI="#_aef79dae-95ef-4c42-92a1-2b5514599ea3"><Transforms><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>wQDphaXhda7GneVF3k6MPffUwxSxT3Yc3lLsuYPb3pYicQUXAFZE++vPxOJUH143eJvA5dwtHo1y
+N0MtbkhrtQ==</DigestValue></Reference></SignedInfo><SignatureValue>aU99r2mtATt0Xpyo15T6Vykg1Ui6ZSPui7z+CZ4N2I71Sbn2873Og5+KgGedpRGm0xci21Ku8uwI
+rE2Ype2KphtoRYERFqJMFSnBqsGWPikUCIUDHqV5RltTb4vv4DOlQp/ri1fB5F39cz1Z/LaveOS6
+nfHqdYBjOZXfvyRT0ymtUSRvI3IwXcF1PtyGRro5CcSOpNW6QlDjJNcfVEJbaMJeEEJQeMx8q+js
+xsXKa/LcdGrKLzuHABQ3PKCz7oXvQ0aIMFuGFe6Pey2d+3/++Enn3GN3MiQ10ZtGZSXopCMBUurE
+bes6F0DH74aZSqxO9G7LnjGoIlyqrEOg/i+tdQ==</SignatureValue><KeyInfo><X509Data><X509SubjectName>C=FR,ST=Paris,L=Paris,O=Talend Inc.,OU=R&amp;D,CN=Talend Code Signing certificate</X509SubjectName><X509Certificate>MIIFADCCAuigAwIBAgIIA2OsD6bRyj0wDQYJKoZIhvcNAQELBQAwgY0xCzAJBgNVBAYTAkZSMQ4w
+DAYDVQQIEwVQYXJpczEOMAwGA1UEBxMFUGFyaXMxFDASBgNVBAoTC1RhbGVuZCBJbmMuMQwwCgYD
+VQQLDANSJkQxFjAUBgNVBAMMDVRhbGVuZCBSJkQgQ0ExIjAgBgkqhkiG9w0BCQEWE3NlY3VyaXR5
+QHRhbGVuZC5jb20wHhcNMTkwNjAzMDgxODIwWhcNMjkwNjAzMDAwMDAwWjB7MSgwJgYDVQQDEx9U
+YWxlbmQgQ29kZSBTaWduaW5nIGNlcnRpZmljYXRlMQwwCgYDVQQLDANSJkQxFDASBgNVBAoTC1Rh
+bGVuZCBJbmMuMQ4wDAYDVQQHEwVQYXJpczEOMAwGA1UECBMFUGFyaXMxCzAJBgNVBAYTAkZSMIIB
+IjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAp5TMF8BmRt8dY51t9kIDdDkoOKVVytJN2gn2
+DhMGi8hzpUofNDykJDhe9SPqyJdGZ6o/h7laTA0/CivKyPT1OJQ9E2gMHKs8cTZM/cO2w0Atlqkl
+alIxepol0DNnUtmECVBqdnVsJesfmdoeptxgJAtxYbquFsTsrATNY2cscXpwmOca/Ewip48WQLFx
+e5s067jaIsAQGRIqpIup3bOtWBySrtImJ40lQCPeEcl96qzkv3utaVaNc3ukkhYkCDbMbK8NVd1B
+CVeeIBAe+n/SdpHH20o+6eIiZecsBGDLwlTYrFvuVqAa6xI7y8Vdz6irjPAVBEtG/iOc782aJ/lZ
+TwIDAQABo3UwczAMBgNVHRMBAf8EAjAAMA4GA1UdDwEB/wQEAwIHgDATBgNVHSUEDDAKBggrBgEF
+BQcDAzAdBgNVHQ4EFgQUGdfzQEbjQnANq28sfhEMTx+rsOcwHwYDVR0jBBgwFoAU530Lcvy1gZnG
+gCvZLOyCczK1qPcwDQYJKoZIhvcNAQELBQADggIBAEr22wnaQwZm2dhbUCqD+qZpTq2AF/tzxqAM
+eL/CiTjPbTblS4SNNwCKvTgMe9ucpUbenXmK7xE+DU9dN4om+t3VHbkOLQVyuLcd2WGsy7ZGwRvA
+f+TFwLbwjyTukOGm6Sd1qyZgvCPzBsKnft6vscvGy2yEpmFCeHJyBP8pvchg607zguRdNbkGYZXw
+G6jNipAbTtzdPTFKKr1bEf0sUGqMrlZIMPjflh2Vewu8ImNdX5IZdvBD6DdFVOC5wqV6u+W9ukE/
+mXZxDBYNl2AF7FTh04ucEVN3mHv7m2L0uFvUlhxchcagJhJsdQG+A0LVCemHbp6CSNQJx02KxqUG
+hakvpzhOyLo91h8YAQrEZJdNuKA8IYmBrFZQZDCz0uywKSyFfzPyJhvxylCLG/iDPPfE0VWcrMJ/
+WQJly/2XPg/NBCTF3pSKS0kCiA7PeaI3cWkMYYA3PMwYDvzqs1opBRglG7ikj0bQxSm3lcjMuuvW
+gBRksFKjP3K/nztsjSoYITOM9jR29ReIL3v0E8RbAFwA2RGq6Dxd0ixfbucMesy5Gnr8tfYy6rW+
+qSQqd3ah4+PSzBNVwIB4ytpdrG3SlhCI2i2Th8ek8Sjsaquh9qPAerWNd2+84HWOOGj1Xe1qc6vg
+qqu6JoK9EXKDiwBqDVkueIa+MhamE1VDnhn2pPui</X509Certificate></X509Data></KeyInfo><Object><SignatureProperties><SignatureProperty Id="_aef79dae-95ef-4c42-92a1-2b5514599ea3" Target="#_7ee7a955-d968-4fb4-96b8-cce3106e8087"><Timestamp>2021-12-04 14:09:29</Timestamp></SignatureProperty></SignatureProperties></Object></Signature></xmi:XMI>
